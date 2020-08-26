@@ -1,0 +1,2900 @@
+fileFormatVersion: 2
+guid: 94506a0a43e112f4e945b7e59d40c5a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6839105831162573795
+    second: PC Computer - Resident Evil 6 - Items_0
+  - first:
+      213: 6621869101763915606
+    second: PC Computer - Resident Evil 6 - Items_1
+  - first:
+      213: -5466653159615399966
+    second: PC Computer - Resident Evil 6 - Items_2
+  - first:
+      213: -316186991220004447
+    second: PC Computer - Resident Evil 6 - Items_3
+  - first:
+      213: 6102626196815549653
+    second: PC Computer - Resident Evil 6 - Items_4
+  - first:
+      213: -507068005933351660
+    second: PC Computer - Resident Evil 6 - Items_5
+  - first:
+      213: 2186121424332798810
+    second: PC Computer - Resident Evil 6 - Items_6
+  - first:
+      213: 482720941661475872
+    second: PC Computer - Resident Evil 6 - Items_7
+  - first:
+      213: -1840043230226958308
+    second: PC Computer - Resident Evil 6 - Items_8
+  - first:
+      213: 5074080085660173687
+    second: PC Computer - Resident Evil 6 - Items_9
+  - first:
+      213: 3262232366612384364
+    second: PC Computer - Resident Evil 6 - Items_10
+  - first:
+      213: 8875966501925962817
+    second: PC Computer - Resident Evil 6 - Items_11
+  - first:
+      213: -3017930642515547148
+    second: PC Computer - Resident Evil 6 - Items_12
+  - first:
+      213: 4975665562716329381
+    second: PC Computer - Resident Evil 6 - Items_13
+  - first:
+      213: -535727924744857051
+    second: PC Computer - Resident Evil 6 - Items_14
+  - first:
+      213: 5307021352725477719
+    second: PC Computer - Resident Evil 6 - Items_15
+  - first:
+      213: 7754839559931258568
+    second: PC Computer - Resident Evil 6 - Items_16
+  - first:
+      213: -8001372309703582153
+    second: PC Computer - Resident Evil 6 - Items_17
+  - first:
+      213: -2821113056657276183
+    second: PC Computer - Resident Evil 6 - Items_18
+  - first:
+      213: 1843329478961389
+    second: PC Computer - Resident Evil 6 - Items_19
+  - first:
+      213: 8845605933538050721
+    second: PC Computer - Resident Evil 6 - Items_20
+  - first:
+      213: 658862927292912135
+    second: PC Computer - Resident Evil 6 - Items_21
+  - first:
+      213: 5583912629225719666
+    second: PC Computer - Resident Evil 6 - Items_22
+  - first:
+      213: 6434789861421659062
+    second: PC Computer - Resident Evil 6 - Items_23
+  - first:
+      213: -1978590782621835249
+    second: PC Computer - Resident Evil 6 - Items_24
+  - first:
+      213: -239431385809763410
+    second: PC Computer - Resident Evil 6 - Items_25
+  - first:
+      213: 3158428222300202328
+    second: PC Computer - Resident Evil 6 - Items_26
+  - first:
+      213: -4223873512797635947
+    second: PC Computer - Resident Evil 6 - Items_27
+  - first:
+      213: -123891320225078427
+    second: PC Computer - Resident Evil 6 - Items_28
+  - first:
+      213: -5149224465763244611
+    second: PC Computer - Resident Evil 6 - Items_29
+  - first:
+      213: -3026076525029501692
+    second: PC Computer - Resident Evil 6 - Items_30
+  - first:
+      213: -3095573781456926499
+    second: PC Computer - Resident Evil 6 - Items_31
+  - first:
+      213: -6473574413542087385
+    second: PC Computer - Resident Evil 6 - Items_32
+  - first:
+      213: -6164645725750363809
+    second: PC Computer - Resident Evil 6 - Items_33
+  - first:
+      213: -8810259668914461245
+    second: PC Computer - Resident Evil 6 - Items_34
+  - first:
+      213: 7750060332639143793
+    second: PC Computer - Resident Evil 6 - Items_35
+  - first:
+      213: 7810273069597901064
+    second: PC Computer - Resident Evil 6 - Items_36
+  - first:
+      213: -8258343709377221766
+    second: PC Computer - Resident Evil 6 - Items_37
+  - first:
+      213: 2241735344515046542
+    second: PC Computer - Resident Evil 6 - Items_38
+  - first:
+      213: -1620971419623553905
+    second: PC Computer - Resident Evil 6 - Items_39
+  - first:
+      213: -502934588007161031
+    second: PC Computer - Resident Evil 6 - Items_40
+  - first:
+      213: 3465354574759521401
+    second: PC Computer - Resident Evil 6 - Items_41
+  - first:
+      213: -2889384087885432389
+    second: PC Computer - Resident Evil 6 - Items_42
+  - first:
+      213: -7967200396491458564
+    second: PC Computer - Resident Evil 6 - Items_43
+  - first:
+      213: 790456878008677016
+    second: PC Computer - Resident Evil 6 - Items_44
+  - first:
+      213: 3883654921220077577
+    second: PC Computer - Resident Evil 6 - Items_45
+  - first:
+      213: 1312299173194995789
+    second: PC Computer - Resident Evil 6 - Items_46
+  - first:
+      213: -8893358871823247139
+    second: PC Computer - Resident Evil 6 - Items_47
+  - first:
+      213: 1228602179580643239
+    second: PC Computer - Resident Evil 6 - Items_48
+  - first:
+      213: -2204472809894097522
+    second: PC Computer - Resident Evil 6 - Items_49
+  - first:
+      213: 2619935518745604780
+    second: PC Computer - Resident Evil 6 - Items_50
+  - first:
+      213: -3006996864665765666
+    second: PC Computer - Resident Evil 6 - Items_51
+  - first:
+      213: -8540329678547821076
+    second: PC Computer - Resident Evil 6 - Items_52
+  - first:
+      213: -2732734065238280502
+    second: PC Computer - Resident Evil 6 - Items_53
+  - first:
+      213: -8051080643953441165
+    second: PC Computer - Resident Evil 6 - Items_54
+  - first:
+      213: -2634341150195642669
+    second: PC Computer - Resident Evil 6 - Items_55
+  - first:
+      213: -6424363270043308635
+    second: PC Computer - Resident Evil 6 - Items_56
+  - first:
+      213: -4696472318469854741
+    second: PC Computer - Resident Evil 6 - Items_57
+  - first:
+      213: 2848311758225272695
+    second: PC Computer - Resident Evil 6 - Items_58
+  - first:
+      213: -665532877953267369
+    second: PC Computer - Resident Evil 6 - Items_59
+  - first:
+      213: 7589493794970885578
+    second: PC Computer - Resident Evil 6 - Items_60
+  - first:
+      213: 423164420997517557
+    second: PC Computer - Resident Evil 6 - Items_61
+  - first:
+      213: -7658326662197502640
+    second: PC Computer - Resident Evil 6 - Items_62
+  - first:
+      213: 7770142923282707614
+    second: PC Computer - Resident Evil 6 - Items_63
+  - first:
+      213: 3684345145990628569
+    second: PC Computer - Resident Evil 6 - Items_64
+  - first:
+      213: -5872600889711056234
+    second: PC Computer - Resident Evil 6 - Items_65
+  - first:
+      213: 4473244142224169600
+    second: PC Computer - Resident Evil 6 - Items_66
+  - first:
+      213: 7548204329482742999
+    second: PC Computer - Resident Evil 6 - Items_67
+  - first:
+      213: -341891894811371873
+    second: PC Computer - Resident Evil 6 - Items_68
+  - first:
+      213: 1276082017846733013
+    second: PC Computer - Resident Evil 6 - Items_69
+  - first:
+      213: -888075046229144367
+    second: PC Computer - Resident Evil 6 - Items_70
+  - first:
+      213: -6905360376995595594
+    second: PC Computer - Resident Evil 6 - Items_71
+  - first:
+      213: 3178457251270171813
+    second: PC Computer - Resident Evil 6 - Items_72
+  - first:
+      213: -379213897832226864
+    second: PC Computer - Resident Evil 6 - Items_73
+  - first:
+      213: 8274274666299929646
+    second: PC Computer - Resident Evil 6 - Items_74
+  - first:
+      213: 853314885257034375
+    second: PC Computer - Resident Evil 6 - Items_75
+  - first:
+      213: 7185877044688044103
+    second: PC Computer - Resident Evil 6 - Items_76
+  - first:
+      213: -6503264557854848280
+    second: PC Computer - Resident Evil 6 - Items_77
+  - first:
+      213: 9108019618259810478
+    second: PC Computer - Resident Evil 6 - Items_78
+  - first:
+      213: -5715558755376162440
+    second: PC Computer - Resident Evil 6 - Items_79
+  - first:
+      213: -5342266968950846186
+    second: PC Computer - Resident Evil 6 - Items_80
+  - first:
+      213: -1908999586821277567
+    second: PC Computer - Resident Evil 6 - Items_81
+  - first:
+      213: -3346071537036102547
+    second: PC Computer - Resident Evil 6 - Items_82
+  - first:
+      213: 6267000003824495111
+    second: PC Computer - Resident Evil 6 - Items_83
+  - first:
+      213: 8997210197679005328
+    second: PC Computer - Resident Evil 6 - Items_84
+  - first:
+      213: -2193645119060237134
+    second: PC Computer - Resident Evil 6 - Items_85
+  - first:
+      213: -1885747507311367522
+    second: PC Computer - Resident Evil 6 - Items_86
+  - first:
+      213: 7564317328098247808
+    second: PC Computer - Resident Evil 6 - Items_87
+  - first:
+      213: -7046855938833873481
+    second: PC Computer - Resident Evil 6 - Items_88
+  - first:
+      213: -2332476497850567262
+    second: PC Computer - Resident Evil 6 - Items_89
+  - first:
+      213: -8776555557010681969
+    second: PC Computer - Resident Evil 6 - Items_90
+  - first:
+      213: 4412717076660386701
+    second: PC Computer - Resident Evil 6 - Items_91
+  - first:
+      213: -5794872535051176837
+    second: PC Computer - Resident Evil 6 - Items_92
+  - first:
+      213: 1631148780652173542
+    second: PC Computer - Resident Evil 6 - Items_93
+  - first:
+      213: -5420155602920968985
+    second: PC Computer - Resident Evil 6 - Items_94
+  - first:
+      213: -429184682717442517
+    second: PC Computer - Resident Evil 6 - Items_95
+  - first:
+      213: -8486017222536310207
+    second: PC Computer - Resident Evil 6 - Items_96
+  - first:
+      213: 4597801654745497525
+    second: PC Computer - Resident Evil 6 - Items_97
+  - first:
+      213: 6838263169271997198
+    second: PC Computer - Resident Evil 6 - Items_98
+  - first:
+      213: -7291193523641060533
+    second: PC Computer - Resident Evil 6 - Items_99
+  - first:
+      213: -5674006907193576429
+    second: PC Computer - Resident Evil 6 - Items_100
+  - first:
+      213: -8168656403908315506
+    second: PC Computer - Resident Evil 6 - Items_101
+  - first:
+      213: -7525360419062855091
+    second: PC Computer - Resident Evil 6 - Items_102
+  - first:
+      213: 6273896963263701320
+    second: PC Computer - Resident Evil 6 - Items_103
+  - first:
+      213: 6158976198845122844
+    second: PC Computer - Resident Evil 6 - Items_104
+  - first:
+      213: -5890199402725341529
+    second: PC Computer - Resident Evil 6 - Items_105
+  - first:
+      213: -5203369676661667601
+    second: PC Computer - Resident Evil 6 - Items_106
+  - first:
+      213: 5783696226284030721
+    second: PC Computer - Resident Evil 6 - Items_107
+  - first:
+      213: 7778141556642359264
+    second: PC Computer - Resident Evil 6 - Items_108
+  - first:
+      213: -6513691706606818134
+    second: PC Computer - Resident Evil 6 - Items_109
+  - first:
+      213: -719486323156394349
+    second: PC Computer - Resident Evil 6 - Items_110
+  - first:
+      213: 7690108014170900192
+    second: PC Computer - Resident Evil 6 - Items_111
+  - first:
+      213: -5674981485965753928
+    second: PC Computer - Resident Evil 6 - Items_112
+  - first:
+      213: -7059683894880745178
+    second: PC Computer - Resident Evil 6 - Items_113
+  - first:
+      213: 1027928144783733195
+    second: PC Computer - Resident Evil 6 - Items_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 930
+        width: 92
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e37fbfa48269ee50800000000000000
+      internalID: 6839105831162573795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 940
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe5c72dda95eb50800000000000000
+      internalID: 6621869101763915606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 926
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e77bd63aeb8224b0800000000000000
+      internalID: -5466653159615399966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 967
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a96bb15b9dac9bf0800000000000000
+      internalID: -316186991220004447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 927
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d41f226132e0b450800000000000000
+      internalID: 6102626196815549653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 921
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d706dc55886f8f0800000000000000
+      internalID: -507068005933351660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 956
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b3a355ad9a65e10800000000000000
+      internalID: 2186121424332798810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_7
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 925
+        width: 98
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024df5d8328f2b600800000000000000
+      internalID: 482720941661475872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 927
+        width: 100
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18b5fa5e6ad676e0800000000000000
+      internalID: -1840043230226958308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 953
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77588ab44f0ca6640800000000000000
+      internalID: 5074080085660173687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_10
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 923
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a86baad07c54d20800000000000000
+      internalID: 3262232366612384364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_11
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 937
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1444091b184cd2b70800000000000000
+      internalID: 8875966501925962817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_12
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 937
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb281002182e16d0800000000000000
+      internalID: -3017930642515547148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_13
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 937
+        width: 100
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5d9d2977d1d0540800000000000000
+      internalID: 4975665562716329381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_14
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 933
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a53557a46b098f0800000000000000
+      internalID: -535727924744857051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 934
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7597d907dc356a940800000000000000
+      internalID: 5307021352725477719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_16
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 954
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c669db2e79be9b60800000000000000
+      internalID: 7754839559931258568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_17
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 931
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9874074a65f090800000000000000
+      internalID: -8001372309703582153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_18
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 933
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e20ab23f9469d8d0800000000000000
+      internalID: -2821113056657276183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_19
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 932
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de82cc69f7c860000800000000000000
+      internalID: 1843329478961389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 934
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a28f930bb7e1ca70800000000000000
+      internalID: 8845605933538050721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 934
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702d7f07750c42900800000000000000
+      internalID: 658862927292912135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_22
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 924
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27701d193fa0e7d40800000000000000
+      internalID: 5583912629225719666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_23
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 934
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3b2563947fc4950800000000000000
+      internalID: 6434789861421659062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_24
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 928
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00a6fd8a22aa84e0800000000000000
+      internalID: -1978590782621835249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_25
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 926
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3cab45c6e5dacf0800000000000000
+      internalID: -239431385809763410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_26
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 927
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a5ceebbdf4db20800000000000000
+      internalID: 3158428222300202328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_27
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 932
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59af38d4b69c165c0800000000000000
+      internalID: -4223873512797635947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_28
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 859
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563ea3b2089d74ef0800000000000000
+      internalID: -123891320225078427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 824
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db56e6151a74a88b0800000000000000
+      internalID: -5149224465763244611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_30
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 824
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405d77eee673106d0800000000000000
+      internalID: -3026076525029501692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 821
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd84f3cfb005a05d0800000000000000
+      internalID: -3095573781456926499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_32
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 821
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72524cd8e5e3926a0800000000000000
+      internalID: -6473574413542087385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 823
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f486cf57c27aa0800000000000000
+      internalID: -6164645725750363809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 825
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c52767828babb580800000000000000
+      internalID: -8810259668914461245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_35
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 827
+        width: 86
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1774dca9fcebd8b60800000000000000
+      internalID: 7750060332639143793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_36
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 827
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801ce28e9f9a36c60800000000000000
+      internalID: 7810273069597901064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_37
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 839
+        width: 91
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b2d71a628746d80800000000000000
+      internalID: -8258343709377221766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_38
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 828
+        width: 100
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cd14a2b6e3c1f10800000000000000
+      internalID: 2241735344515046542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_39
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 822
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84074605172189e0800000000000000
+      internalID: -1620971419623553905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 738
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933639828a73509f0800000000000000
+      internalID: -502934588007161031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_41
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 738
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ce05120a9671030800000000000000
+      internalID: 3465354574759521401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_42
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 721
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb93ced0b78d6e7d0800000000000000
+      internalID: -2889384087885432389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_43
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 720
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf776c09371de6190800000000000000
+      internalID: -7967200396491458564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_44
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 725
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892b8ffa75448fa00800000000000000
+      internalID: 790456878008677016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_45
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 730
+        width: 100
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083589039385e530800000000000000
+      internalID: 3883654921220077577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_46
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 733
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4893592529363210800000000000000
+      internalID: 1312299173194995789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_47
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 727
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd818e0a931749480800000000000000
+      internalID: -8893358871823247139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_48
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 728
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7cc244c2fdc0110800000000000000
+      internalID: 1228602179580643239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_49
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 727
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d4141c8a32861e0800000000000000
+      internalID: -2204472809894097522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 634
+        width: 93
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2b2492971eb5420800000000000000
+      internalID: 2619935518745604780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 626
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed832e888400546d0800000000000000
+      internalID: -3006996864665765666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 675
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced5e6de767aa7980800000000000000
+      internalID: -8540329678547821076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_53
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 618
+        width: 93
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6fcd7a8d0631ad0800000000000000
+      internalID: -2732734065238280502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_54
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 624
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376c12f8fc0d44090800000000000000
+      internalID: -8051080643953441165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_55
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 619
+        width: 76
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de05656ea0f07bd0800000000000000
+      internalID: -2634341150195642669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_56
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 623
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad6005c4a318d6a0800000000000000
+      internalID: -6424363270043308635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_57
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 618
+        width: 93
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be926203f47c2deb0800000000000000
+      internalID: -4696472318469854741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_58
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 619
+        width: 86
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fe59ef37c378720800000000000000
+      internalID: 2848311758225272695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_59
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 622
+        width: 98
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7598047af5d83c6f0800000000000000
+      internalID: -665532877953267369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_60
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 625
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd554a456c435960800000000000000
+      internalID: 7589493794970885578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 515
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f014238cc16fd500800000000000000
+      internalID: 423164420997517557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 516
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d90dde97828b590800000000000000
+      internalID: -7658326662197502640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_63
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 515
+        width: 90
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94f74c12d715db60800000000000000
+      internalID: 7770142923282707614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 516
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4c4b8c36c612330800000000000000
+      internalID: 3684345145990628569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_65
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 516
+        width: 95
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a212dea94508ea0800000000000000
+      internalID: -5872600889711056234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_66
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 516
+        width: 96
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a5edad8d7241e30800000000000000
+      internalID: 4473244142224169600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_67
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 516
+        width: 77
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc62e678db90c860800000000000000
+      internalID: 7548204329482742999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_68
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 516
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96de22122b514bf0800000000000000
+      internalID: -341891894811371873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_69
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 518
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8a40295dd85b110800000000000000
+      internalID: 1276082017846733013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_70
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 438
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc8f9f537ceca3f0800000000000000
+      internalID: -888075046229144367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_71
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 433
+        width: 62
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6babe13c25b3b20a0800000000000000
+      internalID: -6905360376995595594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_72
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 429
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac19b3a7062c1c20800000000000000
+      internalID: 3178457251270171813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 414
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df91d518f2ccbaf0800000000000000
+      internalID: -379213897832226864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_74
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 414
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2432d258f024d270800000000000000
+      internalID: 8274274666299929646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_75
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 414
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a7c49fd5597db00800000000000000
+      internalID: 853314885257034375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_76
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 414
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c348891d59b360800000000000000
+      internalID: 7185877044688044103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_77
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 414
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea8ca42753cfb5a0800000000000000
+      internalID: -6503264557854848280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_78
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 413
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea83aa1269f266e70800000000000000
+      internalID: 9108019618259810478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8791ee428914ea0b0800000000000000
+      internalID: -5715558755376162440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_80
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 311
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dc16c0f747cd5b0800000000000000
+      internalID: -5342266968950846186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 311
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18876277dfed185e0800000000000000
+      internalID: -1908999586821277567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_82
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 311
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64fae15aad5091d0800000000000000
+      internalID: -3346071537036102547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_83
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 312
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa45bac4bd8f650800000000000000
+      internalID: 6267000003824495111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_84
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 220
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09edd2a61038cdc70800000000000000
+      internalID: 8997210197679005328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_85
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 209
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4252bf26b9e81e0800000000000000
+      internalID: -2193645119060237134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_86
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 214
+        width: 59
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa0aa12aa74d5e0800000000000000
+      internalID: -1885747507311367522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 222
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084c0ad488ad9f860800000000000000
+      internalID: 7564317328098247808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_88
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 216
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b584760cd9843e90800000000000000
+      internalID: -7046855938833873481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_89
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 216
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a57ba2bbf061afd0800000000000000
+      internalID: -2332476497850567262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_90
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 219
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc5e89839633680800000000000000
+      internalID: -8776555557010681969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_91
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 223
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b74a83dce1d3d30800000000000000
+      internalID: 4412717076660386701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_92
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 211
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b747b95c12a749fa0800000000000000
+      internalID: -5794872535051176837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_93
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 211
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8959e7c2103a610800000000000000
+      internalID: 1631148780652173542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_94
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 138
+        width: 92
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec6d84423db7c4b0800000000000000
+      internalID: -5420155602920968985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_95
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 110
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e86931eca3b0af0800000000000000
+      internalID: -429184682717442517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_96
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 108
+        width: 85
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14250e40c4c9b3a80800000000000000
+      internalID: -8486017222536310207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_97
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 114
+        width: 88
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bffecaae3caecf30800000000000000
+      internalID: 4597801654745497525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_98
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 121
+        width: 97
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03281d2f1466ee50800000000000000
+      internalID: 6838263169271997198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_99
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 117
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43feb2ee1a70da90800000000000000
+      internalID: -7291193523641060533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_100
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 107
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3143d93b7c0e141b0800000000000000
+      internalID: -5674006907193576429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_101
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 121
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8633d0b74a13ae80800000000000000
+      internalID: -8168656403908315506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_102
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 110
+        width: 82
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a49f6e19c809790800000000000000
+      internalID: -7525360419062855091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_103
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 109
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8412cbc2c0c511750800000000000000
+      internalID: 6273896963263701320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_104
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 17
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19cf30a834197550800000000000000
+      internalID: 6158976198845122844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_105
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 15
+        width: 98
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a68650d9dec14ea0800000000000000
+      internalID: -5890199402725341529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_106
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 8
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8ca8309dae9c7b0800000000000000
+      internalID: -5203369676661667601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_107
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 11
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b4d601311d34050800000000000000
+      internalID: 5783696226284030721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_108
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 68
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e72f50198281fb60800000000000000
+      internalID: 7778141556642359264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_109
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 18
+        width: 91
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aacea4367e7ba95a0800000000000000
+      internalID: -6513691706606818134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_110
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 6
+        width: 80
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ed287400fd306f0800000000000000
+      internalID: -719486323156394349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_111
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 6
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e68a05be70c8ba60800000000000000
+      internalID: 7690108014170900192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_112
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 6
+        width: 42
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1c716e76a6e31b0800000000000000
+      internalID: -5674981485965753928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_113
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 6
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6294613c6e6f60e90800000000000000
+      internalID: -7059683894880745178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Resident Evil 6 - Items_114
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 12
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1f574933fe34e00800000000000000
+      internalID: 1027928144783733195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f4b6fff0deb08d445b724c59f95ccda5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

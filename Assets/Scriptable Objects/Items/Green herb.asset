@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf01b7e12ef6d54ba7300808a39a66b, type: 3}
+  m_Name: Green herb
+  m_EditorClassIdentifier: 
+  itemType: 5
+  nameItem: Green herb
+  artWorkItem: {fileID: -5149224465763244611, guid: 94506a0a43e112f4e945b7e59d40c5a4,
+    type: 3}
+  maxAmount: 1
+  amountDamage: 0
+  amountLife: 40
+  amountStamina: 0
+  consumableItem: 1
+  itemComponent: {fileID: 8112427167961665840, guid: a7c2ae4f111f68f44adfcf0b5b0ad739,
+    type: 3}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf01b7e12ef6d54ba7300808a39a66b, type: 3}
+  m_Name: Ammo Sniper
+  m_EditorClassIdentifier: 
+  itemType: 4
+  nameItem: Ammo sniper
+  artWorkItem: {fileID: 482720941661475872, guid: 94506a0a43e112f4e945b7e59d40c5a4,
+    type: 3}
+  maxAmount: 5
+  amountDamage: 0
+  amountLife: 0
+  amountStamina: 0
+  consumableItem: 0
+  itemComponent: {fileID: 7399963504547654160, guid: 8f573ac173ded1544bbc7613e1210d6c,
+    type: 3}
